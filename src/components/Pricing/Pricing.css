@@ -1,0 +1,100 @@
+.pricing{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight:800 !important;
+    font-size: 42px !important;
+    padding-bottom: 10px;
+}
+.pricing-txt{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+   font-size: 14px;
+   font-weight: 400;
+
+}
+.price-card-item{
+    margin-right: 20px;
+    width: 380px;
+    height: 400px;
+}
+.card-content{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+}
+.pricing-btn{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin: 15px 0;
+    width: 250px;
+}
+.pricing-content{
+    display:flex;
+    flex-direction: column;
+}
+.check-icon{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    font-size: 12px !important;
+}
+.price-free{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.price-card{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    width: 100%;
+    padding-left: 40px;
+}
+.pricing-cards{
+    margin-top: 32px;
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.suppix{
+    font-size:36px !important;
+}
+.amount{
+    font-size:62px !important;
+}
+.measure{
+font-size: 32px !important;
+    margin-top: 32px;
+}
+.amount-block{
+    display:flex;
+    flex-direction: row;
+    font-weight: 550 !important;
+}
+
+.price-btn-2{
+    width: 100%;
+    background-color: rgb(2 194 255) !important;
+    color: rgb(255, 255, 255) !important;
+    font-weight: 550 !important;
+}
+
+.price-btn-1{
+    width: 100%;
+    background-color: rgb(236 249 255) !important;
+    color: rgb(2 194 255) !important;
+    font-weight: 550 !important;
+}
+
+.tick-icon{
+    color: rgb(2 194 255) !important;
+    margin: 6px;
+    font-size: 18px !important;
+}

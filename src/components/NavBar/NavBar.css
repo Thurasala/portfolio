@@ -1,0 +1,35 @@
+.nav-bar{
+    display: flex;
+    padding: 10px;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 98%;
+    align-items: center;
+    
+    gap: 2;
+    
+    margin-bottom: 20px;
+}
+
+.nav-bar-item{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 22%;
+}
+
+.nav-logo{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.get-started-btn{
+    border-color: rgb(173, 173, 173) !important;
+    color: black !important;
+}
+
+.nav-logo > img{
+ width: 50px;
+}
+

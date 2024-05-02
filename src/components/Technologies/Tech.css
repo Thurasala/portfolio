@@ -1,0 +1,132 @@
+.tech-section{
+    display: flex;
+    flex-direction: column;
+    margin: 40px;
+}
+
+.tech-content{
+    /* height: 200px; */
+    width: 350px;
+
+}
+
+.tech-info{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    align-items: flex-end;
+    margin-bottom: 10px;
+}
+
+.sub-title{
+    font-size: 28px !important;
+    font-weight: 600 !important;
+}
+.card-item{
+    margin-right: 20px;
+}
+
+.card-title{
+    font-size: 20px !important;
+    font-weight: 600 !important;
+}
+
+.cards-section{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    gap: 10px;
+    padding-top: 30px;
+}
+
+.card-content{
+    display: flex;
+    align-items: flex-start !important;
+    justify-content: center;
+    flex-direction: column;
+    margin: 10px;
+}
+.card-icon{
+    font-size: 38px !important;
+    padding: 10px;
+    border-radius: 50%;
+}
+
+.icon-bg-1{
+    background-color: rgba(136, 255, 255, 0.307);
+    color: rgb(21, 255, 255);
+}
+
+.icon-bg-2{
+    background-color: rgba(255, 201, 120, 0.557);
+    color: rgb(255, 157, 10);
+}
+
+.icon-bg-3{
+    background-color: rgb(233 227 252);
+    color: rgb(161 132 247);
+}
+
+.card-info{
+    margin-top: 30px;
+    margin-right: 20px;
+}
+
+.tech-cloud{
+    display: flex;
+    width: 90%;
+    justify-content: space-between;
+    gap: 30;
+    align-items: center;
+    margin: 50px;
+}
+
+.tech-img{
+    width: 300px;
+}
+
+.highlight-text{
+    color: rgb(13, 110, 255) !important;
+    letter-spacing: 4px !important;
+    font-weight: 600 !important;
+}
+
+.cloud-title{
+    font-size: 26px !important;
+    font-weight: 600 !important;
+}
+
+.highlight-point{
+    display: flex;
+    align-items: center;
+    font-size: 12px !important;
+}
+
+.cloud-content{
+    font-size: 14px !important;
+    margin: 6px !important;
+}
+
+.highlight-point-icon{
+    font-size: 14px !important;
+    margin-right: 4px;
+    padding: 2px;
+    color: rgb(13, 110, 255) !important;
+}
+
+.client-section{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.client-title{
+    font-size: 40px !important;
+    font-weight: 600 !important;
+}
+
+.plans-card{
+    margin: 30px 10px !important;
+}

@@ -1,0 +1,61 @@
+.home-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 600px;  
+   
+    border-radius: 6px;
+    background: linear-gradient(150deg, rgb(238 249 254) 0%, rgb(214 240 253) 73%);
+    border:1px solid gray;
+}
+.home-content{
+    padding: 8%;
+}
+
+.home-img{
+    width: 400px;
+}
+
+.watch-icon{
+    color: rgb(255, 255, 255);
+    margin: 0 4px;
+    font-size: 30px;
+}
+
+.watch-btn{
+    color: black !important;
+    margin-left: 10px;
+}
+
+.main-title{
+    font-size: 62px !important;
+    font-weight: 700 !important;
+    line-height: normal;
+}
+
+.btn-filled{
+    background-color: #041437 !important;
+    color: white;
+}
+
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+  /* .form-input{
+      width: 200px;
+  } */
+  .short-name{
+      margin-right: 10px;
+  }
+
+}

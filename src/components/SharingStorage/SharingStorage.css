@@ -1,0 +1,50 @@
+.sharing-content{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-color: #eef9fe;
+    padding: 80px 0;
+}
+
+.sharing-title{
+    font-size: 52px !important;
+    font-weight: 800 !important;
+}
+.sharing-header{
+    width: 50%;
+}
+
+.sharing-sub{
+    width: 60%;
+    padding-left: 130px;
+}
+
+.play-icon{
+    font-size: 35px !important;
+    color: #bbbbbb;
+    margin-right: 10px;
+}
+
+.technology{
+    padding: 50px 0;
+}
+
+.card-item-sharing{
+    margin-right: 20px;
+    width: 350px !important;
+    border-radius: 10px !important;
+}
+
+.card-1{
+
+background-color: rgb(210, 244, 255) !important;
+}
+.card-2{
+background-color: rgb(255, 221, 204) !important;
+}
+
+.card-3{
+background-color: rgb(243 237 254) !important;
+}
